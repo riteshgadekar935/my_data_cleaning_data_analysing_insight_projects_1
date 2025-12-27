@@ -1,0 +1,1 @@
+hey guys i build a basics project of data cleaning and data analysis ,i collect the data from instagram and store it into txt form and i clean it ,arrange it,its a initial data analysis and data cleaning and i range the data in this way from this we easily understand the pattern of data 
